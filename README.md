@@ -150,9 +150,10 @@ B. Nội dung Bài tập 05:
 3. Viết trigger cho 1 bảng nào đó, 
    mà có sử dụng trường phi chuẩn này,
    nhằm đạt được 1 vài mục tiêu nào đó.
-   => Nêu rõ các mục tiêu 
+   => Nêu rõ các mục tiêu
+![image](https://github.com/user-attachments/assets/3d575350-cda4-4835-a8b9-02e3f25147e2)
 
-4. Nhập dữ liệu có kiểm soát, 
+5. Nhập dữ liệu có kiểm soát, 
    Nhập dữu liệu cho bảng "chitietmuontra"
    
 ![image](https://github.com/user-attachments/assets/66ec0c8f-b1cd-48c6-9009-e2c58bc09b86)
