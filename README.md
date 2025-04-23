@@ -178,3 +178,5 @@ B. Nội dung Bài tập 05:
 ![image](https://github.com/user-attachments/assets/cb8da488-abc5-41e9-a4ff-4dcf4e6ffcd5)
 
 5. Kết luận về Trigger đã giúp gì cho đồ án của em.
+
+   
