@@ -188,3 +188,8 @@ B. Nội dung Bài tập 05:
    1. Tự động cập nhật dữ liệu phi chuẩn (cache)
    2. Đảm bảo tính toàn vẹn dữ liệu
    3. Tự động hóa xử lý – giảm sai sót thủ công
+   => KẾT LUẬN :Trigger đóng vai trò quan trọng trong việc tự động hóa xử lý dữ liệu trong hệ thống quản lý thư viện. Cụ thể:
+   - Đảm bảo tính nhất quán dữ liệu: Trigger giúp cập nhật tự động các trường phi chuẩn (tentacgia_cache, tentheloai_cache, sotongsach) mỗi khi có thay đổi liên quan đến tác giả, thể loại,    hoặc chi tiết mượn trả.
+   - Tăng hiệu năng truy xuất: Nhờ có các trường cache được cập nhật tự động, các truy vấn trở nên nhanh hơn, vì không cần join quá nhiều bảng.
+   - Giảm sai sót thủ công: Khi người dùng chỉnh sửa tác giả hoặc thể loại, hệ thống sẽ tự cập nhật các thông tin liên quan mà không cần thao tác thủ công, giảm lỗi người dùng.
+   - Hỗ trợ kiểm tra và thống kê dễ dàng: Các trường phi chuẩn đã được trigger xử lý giúp dễ dàng thống kê tổng số sách mượn, hoặc hiển thị tác giả/thể loại một cách chính xác.
