@@ -147,4 +147,34 @@ B. Nội dung Bài tập 05:
     + Cộng dồn số lượng (soluong) sách trong từng dòng.
     + Ghi tổng số này vào trường sotongsach.
 
+3. Viết trigger cho 1 bảng nào đó, 
+   mà có sử dụng trường phi chuẩn này,
+   nhằm đạt được 1 vài mục tiêu nào đó.
+   => Nêu rõ các mục tiêu 
 
+4. Nhập dữ liệu có kiểm soát, 
+   Nhập dữu liệu cho bảng "chitietmuontra"
+   
+![image](https://github.com/user-attachments/assets/66ec0c8f-b1cd-48c6-9009-e2c58bc09b86)
+
+   Nhập dữ lieeum cho bảng 'tramuon'
+
+![image](https://github.com/user-attachments/assets/f39f6b3c-9eb6-4944-9725-a3b9e1a9ad76)
+
+   Nhập dữ liệu cho bảng "nhanvien"
+
+![image](https://github.com/user-attachments/assets/eda93645-bccd-488a-9a78-cdb2bff0c789)
+
+   Nhập dữ liệu cho bảng "sach"
+
+![image](https://github.com/user-attachments/assets/3b7ca29b-5963-4158-af24-0df7207ad4a9)
+
+   Nhập dữ liệu cho bảng "tacgia"
+
+![image](https://github.com/user-attachments/assets/1c2f74ac-ea9a-4541-bb81-e62c25aa6fe0)
+
+   Nhập dữ liệu cho bảng "theloai"
+
+![image](https://github.com/user-attachments/assets/cb8da488-abc5-41e9-a4ff-4dcf4e6ffcd5)
+
+5. Kết luận về Trigger đã giúp gì cho đồ án của em.
