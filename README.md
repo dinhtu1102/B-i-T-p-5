@@ -177,6 +177,14 @@ B. Nội dung Bài tập 05:
 
 ![image](https://github.com/user-attachments/assets/cb8da488-abc5-41e9-a4ff-4dcf4e6ffcd5)
 
+* KẾT QUẢ TEST CHƯƠNG TRÌNH
+  
+![image](https://github.com/user-attachments/assets/afb87e55-1f55-49be-abee-ebccdba47784)
+
+![image](https://github.com/user-attachments/assets/46bde6c4-d28a-4ee0-bdbe-5a60a715179e)
+
 5. Kết luận về Trigger đã giúp gì cho đồ án của em.
 
-   
+   1. Tự động cập nhật dữ liệu phi chuẩn (cache)
+   2. Đảm bảo tính toàn vẹn dữ liệu
+   3. Tự động hóa xử lý – giảm sai sót thủ công
