@@ -87,54 +87,54 @@ A. Trình bày lại đầu bài của đồ án PT&TKHT:
 
 * Bảng "Chitietmuontra"
 
-  ![image](https://github.com/user-attachments/assets/ea076fe3-8ca3-4203-a6e1-6d91c13b3f76)
+![image](https://github.com/user-attachments/assets/ea076fe3-8ca3-4203-a6e1-6d91c13b3f76)
 
 Thiết lập khóa ngoại cho bảng
 
- ![image](https://github.com/user-attachments/assets/b366709b-5858-4da6-9362-11c921d334fa)
+![image](https://github.com/user-attachments/assets/b366709b-5858-4da6-9362-11c921d334fa)
 
 * Bảng "muontra"
 
-  ![image](https://github.com/user-attachments/assets/5217f357-8335-4f95-a811-4ba761e5caf6)
+![image](https://github.com/user-attachments/assets/5217f357-8335-4f95-a811-4ba761e5caf6)
 
 thiết lập khóa ngoại
-  ![image](https://github.com/user-attachments/assets/9f31f51f-8c84-45f8-8b27-ed32590f9721)
+![image](https://github.com/user-attachments/assets/9f31f51f-8c84-45f8-8b27-ed32590f9721)
  
 * Bảng "nhanvien"
 
-  ![image](https://github.com/user-attachments/assets/1374ac55-aae2-4a9f-aa1e-59942f2a2232)
+![image](https://github.com/user-attachments/assets/1374ac55-aae2-4a9f-aa1e-59942f2a2232)
 
 Thiết lập khóa ngoại.
-  ![image](https://github.com/user-attachments/assets/6186789c-91b3-472a-be99-c7e3085c0849)
+![image](https://github.com/user-attachments/assets/6186789c-91b3-472a-be99-c7e3085c0849)
 
 * Bảng "sách"
 
-  ![image](https://github.com/user-attachments/assets/833c14de-1555-4f1b-a603-8585fa713f3c)
+![image](https://github.com/user-attachments/assets/833c14de-1555-4f1b-a603-8585fa713f3c)
 
 Thiết lập khóa ngoại.
 
-  ![image](https://github.com/user-attachments/assets/95255d4c-21d2-4690-b46e-0d223de62cc3)
+![image](https://github.com/user-attachments/assets/95255d4c-21d2-4690-b46e-0d223de62cc3)
   
 * Bảng "tacgia"
 
-  ![image](https://github.com/user-attachments/assets/0748dd85-ce89-480b-a039-d6ed8a33ee6a)
+![image](https://github.com/user-attachments/assets/0748dd85-ce89-480b-a039-d6ed8a33ee6a)
 
 Thiết lập khóa ngoại cho bảng
 
-  ![image](https://github.com/user-attachments/assets/c377477a-b8e9-465d-86e3-68a6131749b3)
+![image](https://github.com/user-attachments/assets/c377477a-b8e9-465d-86e3-68a6131749b3)
 
 * Bảng "theloai"
 
-  ![image](https://github.com/user-attachments/assets/3a4d7b12-c191-4e3c-9c08-84d09e094eb0)
+![image](https://github.com/user-attachments/assets/3a4d7b12-c191-4e3c-9c08-84d09e094eb0)
 
 Thiết lập khóa ngoại cho bảng.
 
-  ![image](https://github.com/user-attachments/assets/1cf20b68-a2cf-4af2-98aa-bcf41b966658)
+![image](https://github.com/user-attachments/assets/1cf20b68-a2cf-4af2-98aa-bcf41b966658)
 
 B. Nội dung Bài tập 05:
 * Bổ xund thêm một vài trường phi chuẩn
    
-  ![image](https://github.com/user-attachments/assets/ad6f81bd-0b48-405f-a98e-c718f642abee)
+![image](https://github.com/user-attachments/assets/ad6f81bd-0b48-405f-a98e-c718f642abee)
 
   => logic của bài toán:
   mục đích
