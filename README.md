@@ -150,8 +150,13 @@ B. Nội dung Bài tập 05:
 3. Viết trigger cho 1 bảng nào đó, 
    mà có sử dụng trường phi chuẩn này,
    nhằm đạt được 1 vài mục tiêu nào đó.
-   => Nêu rõ các mục tiêu
+   
 ![image](https://github.com/user-attachments/assets/3d575350-cda4-4835-a8b9-02e3f25147e2)
+
+=> Nêu rõ các mục tiêu
+   - Tự động lưu tên tác giả và thể loại vào trường phi chuẩn (tentacgia_cache, tentheloai_cache) khi sách được thêm mới hoặc cập nhật.
+   - Giúp tăng tốc truy vấn vì không cần join với bảng tacgia hoặc theloai mỗi lần lấy tên sách + tác giả + thể loại.
+   - Duy trì tính nhất quán giữa sach và tacgia, theloai nếu dữ liệu ban đầu chính xác.
 
 5. Nhập dữ liệu có kiểm soát, 
    Nhập dữu liệu cho bảng "chitietmuontra"
@@ -180,9 +185,7 @@ B. Nội dung Bài tập 05:
 
 * KẾT QUẢ TEST CHƯƠNG TRÌNH
   
-![image](https://github.com/user-attachments/assets/afb87e55-1f55-49be-abee-ebccdba47784)
-
-![image](https://github.com/user-attachments/assets/46bde6c4-d28a-4ee0-bdbe-5a60a715179e)
+![image](https://github.com/user-attachments/assets/af7057f8-c748-4e5b-9872-433a4e32a067)
 
 5. Kết luận về Trigger đã giúp gì cho đồ án của em.
 
